@@ -1,3 +1,4 @@
 github:
   branch:
     level: "PR"
+    test: "d"
