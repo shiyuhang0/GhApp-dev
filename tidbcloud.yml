@@ -1,6 +1,6 @@
 github:
   branch:
     blackList:
-      - ".*doc1.*"
+      - ".*doc.*"
     autoDestroy: false
     autoReserved: true
