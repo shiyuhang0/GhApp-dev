@@ -1,4 +1,4 @@
 github:
   branch:
     whiteList:
-      - ".*doc.*"
+      - ".*doc1.*"
