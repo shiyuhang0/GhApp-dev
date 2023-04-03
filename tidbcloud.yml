@@ -1,4 +1,5 @@
 github:
   branch:
     blackList:
-      - "*doc.*"
+      - ".*doc.*"
+    level: "test" 
