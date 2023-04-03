@@ -1,4 +1,6 @@
 github:
   branch:
+    blackList:
+      - ".*doc.*"
     whiteList:
-      - ".*doc1.*"
+      - ".*doc.*"
