@@ -2,5 +2,3 @@ github:
   branch:
     blackList:
       - ".*doc.*"
-    autoDestroy: false
-    autoReserved: true
