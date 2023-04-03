@@ -1,0 +1,6 @@
+github:
+  branch:
+    blackList:
+      - ".*doc1.*"
+    autoDestroy: false
+    autoReserved: true
